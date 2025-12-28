@@ -1,5 +1,5 @@
 # 🚨 Network Anomaly Detection Web App
-#### **A deep learning-powered Flask application that detects DDoS attacks and HTTP anomalies in network traffic. The app supports CSV file uploads, generates predictions using trained LSTM**models, and visualizes results in a modern, animated interface**
+#### **A deep learning-powered Flask application that detects DDoS attacks and HTTP anomalies in network traffic. The app supports CSV file uploads, generates predictions using trained LSTM**models, and visualizes results in a modern, animated interface.**
 
 ![i](images.png)
 
